@@ -371,9 +371,66 @@ For each technical deliverable targeted in section~\ref{sec-deliverables} provid
 The cumulative volume of all deliverable sections represents 75\% of the paper's volume in words. Volumes below are indicated relative the the section.
 \label{sec-production}
 \subsection{Requirements ($\pm$ 15\% of section's words)}
-cf. section~\ref{sec-production} applied to the technical deliverable
+In this Bachelor Semester Project, there are several requirements that must be satisfied. These requirements are divided into two parts: front-end and back-end. For each part, functional and non-functional requirements will be introduced. 
+
+\subsection{Front-end}
+\subsection{Front-end functional requirements}
+In this section, we will see the most important functionalities that the front-end must satisfies. The front-end consists to design a GUI that allow the interaction between web-server and end-users. 
+\newline\newline
+FR1: Graphical User Interface should be created by using static pages in order to obtain a first visual view of the web application. These static pages must have some basic elements of a webpage that will allow simple interactions. Moreover, some buttons must be created for displaying different statistics based on jobs offers. 
+\newline\newline 
+FR2: The GUI has to be connected to the back-end functionalities. This connection should be implemented by using the GUI buttons which will be connected to the python script for displaying a statistic on a new static page. 
+\subsection{Front-end non-functional requirements}
+NFR1: Friendly interface. The GUI should be easy to use without spending a lot of time for learning. Moreover, the user interface has to be intuitive so that the user can expect himself in advance the result produced by clicking on an element of user interface. Moreover, the basic elements of a webpage must be found in the right places. 
+\newline\newline
+NFR2: Readability: The font-size of components of GUI must be easily visualize so that the meaning and the information transmit of an GUI element can be easily understand by the user. Moreover, each static page must be not overload with the data and textual information because a lot of data can affect the user understandability. 
+\subsection{Back-end}
+\subsection{Back-end functional requirements}
+In this section, we will see the most important functionalities that the back-end must satisfies. The back-end part consists to develop a web-server that allows the creation of statistics and is deployed on an AWS server. 
+\newline\newline
+FR1: The web-sever development must be realized by using Django framework which is written in Python and the compatibility with between Django web-server and AWS server has to be ensured. 
+\newline\newline
+FR2: The old database from the existed software has to be used in the Jobs Observer. As the database file is to big, it should be imported from an external source such Dropbox where it will be downloaded and used. As, the old database is designed by using peewee library, which is a local database, Jobs Observer has to reuse the codes from the existed software for making the database working. 
+\newline\newline
+FR3: Operations. All the operations for creations of statistics have to be imported to the Jobs Observer in order to apply them on GUI buttons. When a statistic is requested by clicking on front-end button, some of operations have to be used in the right order for producing a statistic. Moreover, the operations to use must be operational and provide the tight results. Additionally, the creation of all statistics must be made in a particular place of the web-sever. 
+\newline\newline
+FR4: The back-end must be connected to the front-end in order to execute the operations when they are requested at front-end and receive a visual representation of results. 
+\subsection{Back-end non-functional requirements}
+NFR1: Maintainability. The development of web-server must be done in a way that it can be maintainable after the end of the project. For ensuring this requirement, a structural approach has to be used, some comments have to be written for the understandability of the program. The right naming must be used for operations and variables. 
+\newline\newline
+NFR2: Operationality. The web-sever must be operational after the development for allowing the execution of different statistics and to be able to provide some firsts results. 
+\newline\newline
+NFR3: Compatibility. The created web-server must be compatible with AWS for allowing Jobs Observer to run continuously and non-locally. 
+
 \subsection{Design ($\pm$ 30\% of section's words)}
-cf. section~\ref{sec-production} applied to the technical deliverable
+\subsection{Project creation}
+The first step for designing the project, is the creation of Jobs Observer on AWS. The creation is realized by using a development tool called CodeStar which allows the creation of simple project and also more complex project such as a web-server. For creating the project, a Django framework is used, based on the Python language. Additionally, the project source code of the project can be found on github which allows to perform an incremental development.
+ 
+\subsection{Graphical User Interface}
+Before passing to the development part of web application, we will focus on the Graphical User Interface design. The first part consists to create a mockup by using an external online tool for creation of web sites. The creation of mockup is started by defining the structure of each page such as the locations of buttons, images and content. Then, the order in which these pages can be accessed was been imposed in order to ensure the logical passage between one page to another. There are four pages that are designed such home, about software, plots and statistic which can be considerate as the basis for the future development. 
+Then, the designed mockup was been used for created HTML pages that represents the content and structure and which is support by CSS files that is responsible for design of each HTML page. 
+
+\subsection{Django structure}
+Django framework has a structure which allow the creation of web application. This structure is divided into two folders which allows the development and configuration of a web application. The first folder, called “ec2django” is used for the configuration. The second folder, called “helloworld” is used for the development of application.
+
+\subsection{Configuration}
+The “ec2django” folder is used for the configuration and contains four python modules such init, settings, urls and wsgi. The settings.py module is the most important and is the only one module used in this folder. It allows to setup of application parameters such as path to HTML static pages, type and location of database and the middleware. During the development, this module was been used for indicating the location of CSS files that are reused by HTML files for design. Moreover, it is used for performing some changes in middleware classes for allowing local tests. 
+
+\subsection{Development}
+The “helloworld” folder is used for the development of a web application (Notice: the “helloworld” name is the base name of application). As previously, this folder contains some modules such as init, admin, apps, models, views and urls. For the explanations, we will focus only on the last three modules.
+
+\subsection{models.py}
+This module is use for creation of database and declaration of database structure. As, we have already an existed database from the existed software, this old database is reused for fetched the available jobs. Moreover, the oldest database was been created by using peewee package and the structure of database were been previously defined. So, the code for existed structure is reused for interaction with the database and retrieve the data. Unfortunately, the existed database is too big (around 1.2GB) and can not be used directly from the repository. So, this database is manually stored into a cloud server, called dropbox. When this module is executed, this stored database file is download to an empty database file. 
+
+\subsection{views.py}
+This module is used for displaying different pages and allowing the interaction between the GUI and users. This module is composed of several functions, called “views”, which accept a request and return a HTML page based on this request. As, we have design previously different HTML pages for our web application, these functions are used for displaying the design HTML pages. Additionally, it is possible to perform some additional operations that allow the creation of different statistics. When, a user will call for an action, a request will be sent to the system and base on this request a certain operation can be performed and a HTML page is displayed. Moreover, this module is used an imported module, called “stats.py”. 
+
+\subsection{urls.py}
+This module is included in the Django structure. It is used for indicating different urls which are requested when a view function is requested in views.py module. So, if a function is requested and return a HTML page, this HTML page will have a previously defined url. 
+
+\subsection{stats.py}
+This module is one of the most important modules because it is used for creating different statistics based on available jobs in Computer Science. This module contains many functions that can be used for creating statistics. Usually for creating a statistic, a dataframe is firstly created and base on the created dataframe, a plot or a table is created which represent a statistic. For creating the statistics, this module uses previously imported database for retrieving the data.  
+
 \subsection{Production ($\pm$ 40\% of section's words)}
 cf. section~\ref{sec-production} applied to the technical deliverable
 \subsection{Assessment ($\pm$ 15\% of section's words)}

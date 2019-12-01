@@ -21,9 +21,24 @@
 \BOOKMARK [2][-]{subsection.4.4}{Assessment \( 15\045 of section's words\)}{section.4}% 21
 \BOOKMARK [1][-]{section.5}{ A Technical Deliverable 1}{}% 22
 \BOOKMARK [2][-]{subsection.5.1}{Requirements \( 15\045 of section's words\)}{section.5}% 23
-\BOOKMARK [2][-]{subsection.5.2}{Design \( 30\045 of section's words\)}{section.5}% 24
-\BOOKMARK [2][-]{subsection.5.3}{Production \( 40\045 of section's words\)}{section.5}% 25
-\BOOKMARK [2][-]{subsection.5.4}{Assessment \( 15\045 of section's words\)}{section.5}% 26
-\BOOKMARK [1][-]{section.6}{Conclusion}{}% 27
-\BOOKMARK [1][-]{section*.2}{References}{}% 28
-\BOOKMARK [1][-]{section.7}{Appendix}{}% 29
+\BOOKMARK [2][-]{subsection.5.2}{Front-end}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.3}{Front-end functional requirements}{section.5}% 25
+\BOOKMARK [2][-]{subsection.5.4}{Front-end non-functional requirements}{section.5}% 26
+\BOOKMARK [2][-]{subsection.5.5}{Back-end}{section.5}% 27
+\BOOKMARK [2][-]{subsection.5.6}{Back-end functional requirements}{section.5}% 28
+\BOOKMARK [2][-]{subsection.5.7}{Back-end non-functional requirements}{section.5}% 29
+\BOOKMARK [2][-]{subsection.5.8}{Design \( 30\045 of section's words\)}{section.5}% 30
+\BOOKMARK [2][-]{subsection.5.9}{Project creation}{section.5}% 31
+\BOOKMARK [2][-]{subsection.5.10}{Graphical User Interface}{section.5}% 32
+\BOOKMARK [2][-]{subsection.5.11}{Django structure}{section.5}% 33
+\BOOKMARK [2][-]{subsection.5.12}{Configuration}{section.5}% 34
+\BOOKMARK [2][-]{subsection.5.13}{Development}{section.5}% 35
+\BOOKMARK [2][-]{subsection.5.14}{models.py}{section.5}% 36
+\BOOKMARK [2][-]{subsection.5.15}{views.py}{section.5}% 37
+\BOOKMARK [2][-]{subsection.5.16}{urls.py}{section.5}% 38
+\BOOKMARK [2][-]{subsection.5.17}{stats.py}{section.5}% 39
+\BOOKMARK [2][-]{subsection.5.18}{Production \( 40\045 of section's words\)}{section.5}% 40
+\BOOKMARK [2][-]{subsection.5.19}{Assessment \( 15\045 of section's words\)}{section.5}% 41
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 42
+\BOOKMARK [1][-]{section*.2}{References}{}% 43
+\BOOKMARK [1][-]{section.7}{Appendix}{}% 44

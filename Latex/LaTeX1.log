@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  24 NOV 2019 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  1 DEC 2019 23:19
 entering extended mode
 **./LaTeX1.tex
 (LaTeX1.tex
@@ -366,19 +366,19 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip44
 ) (LaTeX1.aux
 
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
 LaTeX Warning: Label `sec-production' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
 
 )
 \openout1 = `LaTeX1.aux'.
@@ -592,102 +592,155 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 373.
 
 
+Underfull \hbox (badness 2662) in paragraph at lines 378--383
+[]\OT1/ptm/m/n/10.03749 In this sec-tion, we will see the most im-por-tant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--383
+
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 378--383
+\OT1/ptm/m/n/10.03749 FR1: Graph-i-cal User In-ter-face should be cre-ated by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--387
+
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 384--387
+\OT1/ptm/m/n/10.03749 NFR2: Read-abil-ity: The font-size of com-po-nents of
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 389--398
+[]\OT1/ptm/m/n/10.03749 In this sec-tion, we will see the most im-por-tant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--398
+
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 389--398
+\OT1/ptm/m/n/10.03749 FR3: Op-er-a-tions. All the op-er-a-tions for cre-ations 
+of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--398
+
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 389--398
+\OT1/ptm/m/n/10.03749 FR4: The back-end must be con-nected to the front-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--404
+
+ []
+
+[3]
+
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 375.
+(hyperref)                removing `math shift' on input line 405.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 375.
+(hyperref)                removing `\pm' on input line 405.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 375.
+(hyperref)                removing `math shift' on input line 405.
+
+[4]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 434.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 377.
+(hyperref)                removing `\pm' on input line 434.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 377.
+(hyperref)                removing `math shift' on input line 434.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 377.
+(hyperref)                removing `math shift' on input line 436.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 379.
+(hyperref)                removing `\pm' on input line 436.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 379.
+(hyperref)                removing `math shift' on input line 436.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 379.
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 476--478
+Underfull \hbox (badness 1748) in paragraph at lines 533--535
 [] \OT1/ptm/m/n/8.03 Ver-i-fi-ca-tion vs Val-i-da-tion." Soft-ware Test-ing Fun
 -da-men-tals, 3
  []
 
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 481.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 538.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.03> on input line 481.
+(Font)              <8.03> on input line 538.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.62097> on input line 481.
+(Font)              <5.62097> on input line 538.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <4.015> on input line 481.
+(Font)              <4.015> on input line 538.
 
-Underfull \hbox (badness 1895) in paragraph at lines 480--482
+Underfull \hbox (badness 1895) in paragraph at lines 537--539
 \OT1/ptm/m/n/8.03 for Propo-si-tional Logic - Logic and Proof 0.1 Doc-u-men-ta-
 tion
  []
 
 
-Overfull \hbox (93.19722pt too wide) in paragraph at lines 480--482
+Overfull \hbox (93.19722pt too wide) in paragraph at lines 537--539
 \OT1/ptm/m/n/8.03 https://$\OML/cmm/m/it/8 leanprover:github:io$\OT1/ptm/m/n/8.
 03 /$\OML/cmm/m/it/8 logic[]nd[]roof$\OT1/ptm/m/n/8.03 /$\OML/cmm/m/it/8 natura
 l[]eduction[]or[]ropositional[]ogic:html$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
 [] \OT1/ptm/m/n/8.03 \What is Django?" Python For Be-gin-ners
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 493--495
+Underfull \hbox (badness 4846) in paragraph at lines 550--552
 [] \OT1/ptm/m/n/8.03 Miller, Cody. \What Is Cloud Com-put-ing & How Does
  []
 
-[3pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has
- been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.529 \newpage
-              pdfTeX warning (ext4): destination with the same identifier (name
-{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.529 \newpage
-              pdfTeX warning (ext4): destination with the same identifier (name
-{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.529 \newpage
-              pdfTeX warning (ext4): destination with the same identifier (name
-{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.529 \newpage
-              ]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -699,26 +752,54 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 533.
-[4
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 590.
+[5pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has
+ been already used, duplicate ignored
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 533.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.590 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.590 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.590 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.590 \end{document}
+                    ]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 590.
  (LaTeX1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 533.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 533.
-Package rerunfilecheck Info: File `LaTeX1.out' has not changed.
-(rerunfilecheck)             Checksum: 21607B61BC007FAC20AE48D75EADC76F;2171.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 590.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 590.
 
+
+Package rerunfilecheck Warning: File `LaTeX1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `LaTeX1.out':
+(rerunfilecheck)             Before: 8FAB16E01975DBBCDE89556D33BEDAE0;2627
+(rerunfilecheck)             After:  4123CCD2B25B09F29ABDFBBFC77012CB;3198.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6626 strings out of 492450
- 106323 string characters out of 3120471
+ 6648 strings out of 492450
+ 106778 string characters out of 3120471
  216073 words of memory out of 3000000
- 10855 multiletter control sequences out of 15000+200000
+ 10861 multiletter control sequences out of 15000+200000
  43533 words of font info for 84 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,7n,31p,1125b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -733,9 +814,9 @@ ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/user/AppData
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/us
 er/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LaTeX1.pdf (4 pages, 126079 bytes).
+Output written on LaTeX1.pdf (5 pages, 137251 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 231 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 
