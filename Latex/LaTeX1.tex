@@ -1,6 +1,8 @@
 \documentclass[conference,compsoc]{IEEEtran}
  
 \usepackage{datetime}
+\usepackage{titlesec}
+\usepackage{titletoc}
 
 % *** CITATION PACKAGES ***
 %
@@ -303,7 +305,7 @@ As the software deployment and development are in the context of software engine
 \subsection{Domains}
 The Bachelor Semester Project is done in different domains of computer science such as Software Engineering, Web development and Software testing. 
 
-\subsubsection{Scientific domain \newline\newline}
+\subsubsection{Scientific domain}
 
 \textbf{Software testing} is a process which consists to verify and validate that a software is a bug free. The purpose of software testing is to find errors and bugs in the functionalities of a software that can lead from smaller failures to the malfunction of the overall system. Software testing is divided in verification and validation.                                                                                                                             Verification[1] process allows to understand, if the development of the software is right. It consists to verify the specified requirements in order to understand if the development of the software is conformed to these requirements.                                                                                                                           Validation[1] is a process which consists to understand, if the developed software is the right software. This process happened after the development of a software and allow to answer, if the developed software meets the requirements and the needs of the customers. 
                                               
@@ -348,11 +350,8 @@ Natural deduction[2] is an intuitional method which allows to develop a proof. I
 Unit testing is a way of testing which purpose is to test the separate parts of a program and shows that each individual part is working correctly. For showing the correctness of execution, some requirements are defined which include the inputs and the correct outputs. In unit testing, the developer knows in advance what is the block of code to test. So, based on these knowledges, a test code will be produced for determine if a block of code to test behaves as expected. For showing that a code behaves as expected, the block to test will accept some predefined inputs from the requirements and will produce an output. Then, the test code will check if the output of the tested code is correct with respect with the output from the requirements.   
 
 \subsection{Technical pre-requisites}
-\subsubsection{Django}
-\textbf{Django}[3] is open source framework written in python which allows the development of web applications. Django is composed of a set of modules that are combine together and which are used during the build for creating locally a web app. So, theses modules are the essential parts of Django because during the development, the developer will need only to configure them correctly in order to make everything work.  By using Django, the developer can develop simultaneously the frontend and back-end. For front-end, Django use templates that are HTML files which are considerate as views in views module. For back-end development, the developer is free to choose how it will be deployed but only thing is that if he wants to connect the back-end functionalities, he will need to pass them in views module. 
-
-\subsubsection{Cloud Computing}
-Cloud Computing[4,5] is used for sharing the information by using the network. The shared information can be considerate as the data which is present on a server and can be accessed through the network. A server run on real or virtual machines that are provided by the providers such Amazon. Cloud Computing gives access to servers, computer power, databases and storage that can be used for different purposes such web deployment.  Cloud Computing allows to deploy many services at the same time and give the possibility to test and understand of how many resources are needed. 
+\subsubsection{Python[2]}
+Python is an interpreted, object-oriented, high-level and multiplatform programming language dedicated for web and application development. It has a dynamic semantics [3] which define how and when the various constructs of a language should produce a program behavior.                                                                                                                                                   Python programming language allows a dynamic typing which gives the possibility to change type of value of a variable to another type without receiving an error. Additionally, it has a dynamic binding [4] option which allows to a computer program to wait until runtime for binding the name of a method for the actual subroutine.                                                                                                                                         The reason for using Python programming language in this project, is that it is easy to learn, to maintain and to develop. Moreover, it offers a possibility to divide a program in modules which allow to have a structure and improve organization. Additionally, some different packages can be imported from python library and they are used for facilitate the program development. The advantage to use modules and packages, is that they can be imported anywhere in the program and their functionalities can be easily reused. 
 
 \section{ A Scientific Deliverable 1}
 For each scientific deliverable targeted in section~\ref{sec-deliverables} provide a full section with all the subsections described below.
@@ -373,8 +372,13 @@ The cumulative volume of all deliverable sections represents 75\% of the paper's
 \subsection{Requirements ($\pm$ 15\% of section's words)}
 In this Bachelor Semester Project, there are several requirements that must be satisfied. These requirements are divided into two parts: front-end and back-end. For each part, functional and non-functional requirements will be introduced. 
 
-\subsection{Front-end}
-\subsection{Front-end functional requirements}
+\setcounter{secnumdepth}{5}
+
+\subsubsection{Front-end}
+\noindent
+\newline 
+\textbf{5.1.1.1. Front-end functional requirements}
+\newline
 In this section, we will see the most important functionalities that the front-end must satisfies. The front-end consists to design a GUI that allow the interaction between web-server and end-users. 
 \newline\newline
 FR1: Graphical User Interface should be created by using static pages in order to obtain a first visual view of the web application. These static pages must have some basic elements of a webpage that will allow simple interactions. Moreover, some buttons must be created for displaying different statistics based on jobs offers. 
@@ -432,7 +436,71 @@ This module is included in the Django structure. It is used for indicating diffe
 This module is one of the most important modules because it is used for creating different statistics based on available jobs in Computer Science. This module contains many functions that can be used for creating statistics. Usually for creating a statistic, a dataframe is firstly created and base on the created dataframe, a plot or a table is created which represent a statistic. For creating the statistics, this module uses previously imported database for retrieving the data.  
 
 \subsection{Production ($\pm$ 40\% of section's words)}
-cf. section~\ref{sec-production} applied to the technical deliverable
+In this section, the description of the deliverable concrete production will be explained. For this section, the deliverable is divided into two parts, front-end and back-end deliverable. Notice that this deliverable is only a prototype and represent the basis for future development.     
+
+\subsubsection{Front-end deliverable}
+Front-end deliverable is a Graphical User Interface view which is composed of several HTML pages that are used for the interaction with the web-application. In total the front-end deliverable contains four HTML pages such as “Home”, “About Software”,”Plots” and “Statistic”. 
+
+\subsubsection{Home page}
+The “Home” page is the first HTML page which show to the user when he accesses the web application. The purpose of this page is to show what kind of statistics are offered by the web application and to redirect a user to other pages where he will be able to find the descriptions of possible statistics or some general information about the software.
+\newline
+The “Home” page is separate into three parts such top, middle and down. The top of the page is a menu bar which is composed on a “BiCS” image on the left and some buttons to the right. There are six buttons to the right such “Home”, “About Software”, “Plots”,”Tables”,”Text” and “About us” which are use for redirect the user to other HTML pages. At the moment, there are only three first buttons that are operational. 
+\newline                                                                                                                                               
+The middle of the page is composed of four circles which are the clickable buttons. The biggest button contains the name and a logo and is used for redirect the user to an “About Software” page. The other three small buttons include images which show what can of statistics are possible and based on the title inside of images redirect the user to the right pages.                                                                   
+The down of the page is reserved for additional information such as contact, Help\&FAQ and Social Media but not yet completely finished.
+\newline                                                                                    
+For the next pages is top and down of each page is the same as in the “Home” page.     
+
+\subsubsection{About Software page}     
+The purpose of this page is to provide a user with the general information about the software. This page provides three types of information. The first is an overview about the software where the purpose of web application is described. The second describe what are the possible statistics and the third describe how the software works. Each description is place into a white box label. 
+
+\subsubsection{Plots page}     
+The purpose of this page is to provide a description what kind of statistics are possible and to allow a user to choose a statistic to display. The description of each statistics can be found in a white box composed of a title (the name of statistic) followed by a small text of expected result. At the bottom of each white box, there are a button “DISPLAY” which is used for displaying a statistic on another page.
+\newline                  
+On this page, there are right now four description of statistics among which two are operational, “Jobs Per Country” and “Jobs Per Company”.  These four descriptions are structured as follow, there are two statistic description per row and two per column.                         
+
+\subsubsection{Statistic page}
+This page appears when a user clicks on a “DISPLAY” button from the “Plots” page and show to user an interactive statistic. At the moment, only the statistic is displayed without any additional information about it. From the mockup point of view, the idea of this page is to display a window for the statistic and to add an additional information around.  
+
+\subsubsection{Back-end deliverable}    
+Back-end deliverable is a web application deployed on an AWS server. The web application is developed in Django and is composed of several modules. In this section, the concrete implementation of modules will be described such models.py, views.py, urls.py and stats.py and their relations. 
+
+\subsubsection{models.py module}
+This module is used for the database creation and declaration of database structure. At beginning, an existed database file, called “jobs.db” is downloaded to the system from the Dropbox by using dropbox python package. This download is possible only, if it exists inside the system another database file. So, the “jobs.db” database file from Dropbox is downloaded into an empty database file also called “jobs.db” and this new file will be used as the new database. The reason to perform this download operation is that the existed database file from the previous software is too big and can’t be store on github after that the project is already modified from his initial state.           
+\newline                                       
+Then, a structure for the database is declared for accessing the data and different tables of database. The database is composed of three types of table such Job, SearchQuery and Token. Job table is composed of several attributes such id, county, company, etc. SearchQuery table is composed of a term and a place which indicate the location. Token is composed of jobs, values and order which is used for indicating the number of available jobs.                                 
+
+\subsubsection{stats.py module} 
+This module can be found in “modules” folder. This module is completely imported from the existed software and is used for creating different types of statistics. It provides three types of statistics: tables, plots and text which should be only created as HTML pages. In this module some changes are performed compare to initial version in order to allow the correct execution on the server. The first change consists to change all path to more common paths. Another, change consists to remove the read Excel sheet with all keywords because AWS server doesn’t allow to load the Excel sheet as a dataframe locally and externally. There exists a solution for this problem which can be to create a new database externally and load the data from the Excel sheet into it.  
+
+\subsubsection{views.py module} 
+This module is used for interacting between the front-end and back-end and it can be accessed from the ``helloworld" folder. It is composed of different functions called ``views" that accept a request and return a HTTP response to an HTML page. In this module there are three functions: get, change\_view and statistics\_view. 
+\newline                                                                                                                       
+The get function is used for showing the ``Home" page when a user accesses the Jobs Observer. The change\_view function is used for returning a HTTP response for ``About Software" and ``Plots" page. This function is executed when the request method is GET request. This GET request is represent as a dictionary with one value inside which indicates the name of the button in the HTML page. So, for this function the names are ``aboutSoftware" and ``plots" which represent the names of buttons in HTML.
+\newline                                                                                             
+The statistics\_view function is used for displaying statistics requested by the user from plots page. The principle of execution is the same as for the previous function but instead directly to return a HTTP response for an HTML page, some operations have to be performed in between for creating a statistic HTML page. At the end a HTTP response for the creating HTML page is returned. The operations performed are the operation from the stats.py module. 
+\newline
+Let’s take an example. A user request for a statistic, called ``Jobs Per Country". This request will be sent to views.py module and will pass this request  
+through all the functions. The value of GET request is ``displayPlot1" and if this value is true for a certain ``if" method such if request.method == ``GET" and ``displayPlot1" in request.GET then some operations from stats.py will create a statistic which is used for returning a HTTP response.  
+
+\subsubsection{urls.py}
+This module is the last module before displaying a HTML page. It is composed of a list of urls where each name of url is associated to a function from views.py module. As example, the url called ``AboutSoftware" is associated to change\_view function.  Notice that the url “AboutSoftware” is not a full url but a part of url which is considerate as the continuation of the basic url s.t basic url $+$ ``AboutSoftware".
+
+\subsubsection{Project on AWS}
+Jobs Observer web-application is already deployed on AWS. The deployment is realized by putting the project on github from where the AWS take the source code and performed a build and deployment itself. 
+
+\subsection{Assessment}
+In this section, the satisfaction of technical deliverable with respect to the requirements are compared and evaluated. As previously, the front-end deliverable and back-end deliverable evaluated based on requirements. 
+
+\subsubsection{Front-end deliverable}
+The front-end deliverable which is the GUI interface of our web application satisfies all the functional requirements. The accomplishment of the first requirement can be seen on the figure(number) which shows that the GUI contains some basic elements of a web page. Additionally, the created page is a static page and contains some buttons that allow the creation of statistics. 
+\newline                                        
+The second requirement is also satisfied because the buttons for displaying statistics are connected to the python script and are operational. 
+\newline
+The front-end deliverable also satisfies all the non-functional requirements which consist to have a friendly interface and a good readability. For the first requirement, a simple interface is created for avoiding to user to spend a lot of time for learning because based on the names of buttons and titles, he would be able to predict the result in advance.       
+\newline                                                            
+For the second requirement, the GUI interface doesn’t overload the user with a lot of information which increase the readability. Additionally, the font-size is adequate because it allows to see all the names of elements and to read all the text sections. 
+
 \subsection{Assessment ($\pm$ 15\% of section's words)}
 cf. section~\ref{sec-production} applied to the technical deliverable
 
