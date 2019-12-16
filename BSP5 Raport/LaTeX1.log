@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  9 DEC 2019 01:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  16 DEC 2019 03:02
 entering extended mode
 **./LaTeX1.tex
 (LaTeX1.tex
@@ -197,32 +197,34 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks18
 \dt@b=\toks19
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.s
-ty"
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box29
-\beforetitleunit=\skip44
-\aftertitleunit=\skip45
-\ttl@plus=\dimen127
-\ttl@minus=\dimen128
-\ttl@toksa=\toks20
-\titlewidth=\dimen129
-\titlewidthlast=\dimen130
-\titlewidthfirst=\dimen131
-
-
-Package titlesec Warning: Non standard sectioning command \subparagraph
-(titlesec)                detected. Using default spacing and no format.
-
-)
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titletoc.s
-ty"
-Package: titletoc 2019/10/16 v2.13 TOC entries
-\ttl@leftsep=\dimen132
-) ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
 )
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
 ty"
@@ -296,7 +298,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen133
+\@linkdim=\dimen129
 \Hy@linkcounter=\count122
 \Hy@pagecounter=\count123
 
@@ -329,7 +331,7 @@ Package hyperref Info: Bookmarks ON on input line 4788.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5147.
-\XeTeXLinkMargin=\dimen134
+\XeTeXLinkMargin=\dimen130
 
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bitset.s
 ty"
@@ -341,8 +343,8 @@ Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count126
-\Field@Width=\dimen135
-\Fld@charsize=\dimen136
+\Field@Width=\dimen131
+\Fld@charsize=\dimen132
 Package hyperref Info: Hyper figures OFF on input line 6418.
 Package hyperref Info: Link nesting OFF on input line 6423.
 Package hyperref Info: Hyper index ON on input line 6426.
@@ -385,22 +387,10 @@ Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip46
+\Hy@SectionHShift=\skip44
 ) (LaTeX1.aux
 
 LaTeX Warning: Label `sec-production' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
 
 )
 \openout1 = `LaTeX1.aux'.
@@ -426,6 +416,36 @@ LaTeX Font Info:    ... okay on input line 216.
 .def"
 File: fc-english.def 2016/01/12
 )
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen133
+\scratchbox=\box29
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen134
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks21
+)
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 216.
 
@@ -441,7 +461,7 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 string.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count132
+\c@section@level=\count138
 )
 LaTeX Info: Redefining \ref on input line 216.
 LaTeX Info: Redefining \pageref on input line 216.
@@ -468,282 +488,573 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <4.51686> on input line 275.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.32358> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 275.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 294.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.045> on input line 294.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.43146> on input line 294.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.02249> on input line 294.
+Underfull \hbox (badness 10000) in paragraph at lines 296--306
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 294.
+Underfull \hbox (badness 1484) in paragraph at lines 296--306
+\OT1/ptm/m/n/10.03749 So, a lot of new stu-dents who started to study the
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 294.
+Underfull \hbox (badness 10000) in paragraph at lines 296--306
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 294.
+Underfull \hbox (badness 4686) in paragraph at lines 321--330
+ \OT1/ptm/b/n/10.03749 2.1.2. Tech-ni-cal do-mains. [][][] Soft-ware En-gi-neer
+-ing \OT1/ptm/m/n/10.03749 is
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 304.
+Underfull \hbox (badness 1609) in paragraph at lines 321--330
+\OT1/ptm/m/n/10.03749 have to be con-sid-er-ate as bud-get, time con-straint or
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 304.
+Underfull \hbox (badness 10000) in paragraph at lines 321--330
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 304.
+ []
 
 [1{C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 340.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 340.
-
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 35
-9.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 38
+5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.04124> on input line 359.
+(Font)              <10.03749> on input line 385.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.72884> on input line 359.
+(Font)              <7.0262> on input line 385.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.52061> on input line 359.
+(Font)              <5.01874> on input line 385.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 359.
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 359.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 359.
+ []
 
 [2]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 361.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 361.
+Underfull \hbox (badness 1571) in paragraph at lines 388--390
+\OT1/ptm/m/n/10.03749 proof and iden-tify if a pro-gram is cor-rect in
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 361.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 363.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 363.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 363.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 365.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 365.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 365.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 372.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--387
+Underfull \hbox (badness 10000) in paragraph at lines 388--390
 
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 378--387
-\OT1/ptm/m/n/10.03749 FR1: Graph-i-cal User In-ter-face should be cre-ated by
+Underfull \hbox (badness 7133) in paragraph at lines 391--393
+\OT1/ptm/m/n/10.03749 a ra-tio-nal, sys-tem-atic se-ries of steps based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--387
-
+Underfull \hbox (badness 2020) in paragraph at lines 391--393
+\OT1/ptm/m/n/10.03749 on math-e-mat-i-cal prin-ci-ples for ar-riv-ing to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 388--391
-
- []
-
-
-Underfull \hbox (badness 3826) in paragraph at lines 388--391
-\OT1/ptm/m/n/10.03749 NFR2: Read-abil-ity: The font-size of com-po-nents of
- []
-
-
-Underfull \hbox (badness 2662) in paragraph at lines 393--402
-[]\OT1/ptm/m/n/10.03749 In this sec-tion, we will see the most im-por-tant
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 393--402
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--402
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--402
+Underfull \hbox (badness 1688) in paragraph at lines 402--404
+\OT1/ptm/m/n/10.03749 is cor-rect from the ap-pli-ca-tion point of view.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 393--402
-\OT1/ptm/m/n/10.03749 FR3: Op-er-a-tions. All the op-er-a-tions for cre-ations 
-of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 393--402
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 393--402
-\OT1/ptm/m/n/10.03749 FR4: The back-end must be con-nected to the front-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 403--408
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--408
+Underfull \hbox (badness 10000) in paragraph at lines 412--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
 
  []
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 409.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 409.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 409.
-
-[4]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 438.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 438.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 438.
-
-[5]
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 48
-7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.03749> on input line 487.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.0262> on input line 487.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.01874> on input line 487.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 504.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pm' on input line 504.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 504.
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 601--603
-[] \OT1/ptm/m/n/8.03 Ver-i-fi-ca-tion vs Val-i-da-tion." Soft-ware Test-ing Fun
--da-men-tals, 3
- []
-
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 606.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.03> on input line 606.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.62097> on input line 606.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <4.015> on input line 606.
-
-Underfull \hbox (badness 1895) in paragraph at lines 605--607
-\OT1/ptm/m/n/8.03 for Propo-si-tional Logic - Logic and Proof 0.1 Doc-u-men-ta-
-tion
  []
 
 
-Overfull \hbox (93.19722pt too wide) in paragraph at lines 605--607
-\OT1/ptm/m/n/8.03 https://$\OML/cmm/m/it/8 leanprover:github:io$\OT1/ptm/m/n/8.
-03 /$\OML/cmm/m/it/8 logic[]nd[]roof$\OT1/ptm/m/n/8.03 /$\OML/cmm/m/it/8 natura
-l[]eduction[]or[]ropositional[]ogic:html$ 
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--612
-[] \OT1/ptm/m/n/8.03 \What is Django?" Python For Be-gin-ners
+Underfull \hbox (badness 10000) in paragraph at lines 461--465
+
+ []
+
+<Proof1-Part1.png, id=205, 490.83376pt x 95.1555pt>
+File: Proof1-Part1.png Graphic file (type png)
+<use Proof1-Part1.png>
+Package pdftex.def Info: Proof1-Part1.png  used on input line 484.
+(pdftex.def)             Requested size: 245.41628pt x 47.57762pt.
+
+Overfull \hbox (1.50502pt too wide) in paragraph at lines 484--485
+ [] 
+ []
+
+<Proof1-Part2.png, id=207, 359.54324pt x 33.12375pt>
+File: Proof1-Part2.png Graphic file (type png)
+<use Proof1-Part2.png>
+Package pdftex.def Info: Proof1-Part2.png  used on input line 493.
+(pdftex.def)             Requested size: 179.77118pt x 16.56183pt.
+<Proof1-Part3.png, id=208, 412.54124pt x 98.16675pt>
+File: Proof1-Part3.png Graphic file (type png)
+<use Proof1-Part3.png>
+Package pdftex.def Info: Proof1-Part3.png  used on input line 502.
+(pdftex.def)             Requested size: 206.27011pt x 49.08325pt.
+<Proof1-Part4.png, id=209, 266.1945pt x 66.2475pt>
+File: Proof1-Part4.png Graphic file (type png)
+<use Proof1-Part4.png>
+Package pdftex.def Info: Proof1-Part4.png  used on input line 511.
+(pdftex.def)             Requested size: 133.09692pt x 33.12366pt.
+<Proof1-Part5.png, id=210, 522.753pt x 130.68825pt>
+File: Proof1-Part5.png Graphic file (type png)
+<use Proof1-Part5.png>
+Package pdftex.def Info: Proof1-Part5.png  used on input line 520.
+(pdftex.def)             Requested size: 261.37585pt x 65.34395pt.
+
+Overfull \hbox (17.4646pt too wide) in paragraph at lines 520--521
+ [] 
+ []
+
+[4 <./Proof1-Part1.png> <./Proof1-Part2.png> <./Proof1-Part3.png> <./Proof1-Par
+t4.png>]
+<Proof1-Part6.png, id=223, 392.06474pt x 98.769pt>
+File: Proof1-Part6.png Graphic file (type png)
+<use Proof1-Part6.png>
+Package pdftex.def Info: Proof1-Part6.png  used on input line 530.
+(pdftex.def)             Requested size: 196.03189pt x 49.38437pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--539
+
+ []
+
+<Proof2-Part1.png, id=224, 517.935pt x 239.6955pt>
+File: Proof2-Part1.png Graphic file (type png)
+<use Proof2-Part1.png>
+Package pdftex.def Info: Proof2-Part1.png  used on input line 540.
+(pdftex.def)             Requested size: 207.17032pt x 95.8765pt.
+
+Underfull \hbox (badness 1629) in paragraph at lines 543--544
+\OT1/ptm/m/n/10.03749 eval-u-at-ing the in-puts and out-puts of a test with re-
+
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 618--620
-[] \OT1/ptm/m/n/8.03 Miller, Cody. \What Is Cloud Com-put-ing & How Does
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
+
  []
 
-[6pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has
- been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.620 \end{thebibliography}
-                           ]
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--548
+
+ []
+
+<Proof2-Part2.png, id=225, 452.892pt x 103.587pt>
+File: Proof2-Part2.png Graphic file (type png)
+<use Proof2-Part2.png>
+Package pdftex.def Info: Proof2-Part2.png  used on input line 549.
+(pdftex.def)             Requested size: 226.44543pt x 51.79337pt.
+<Proof2-Part3.png, id=226, 679.338pt x 264.38776pt>
+File: Proof2-Part3.png Graphic file (type png)
+<use Proof2-Part3.png>
+Package pdftex.def Info: Proof2-Part3.png  used on input line 558.
+(pdftex.def)             Requested size: 271.73038pt x 105.75322pt.
+
+Overfull \hbox (27.81912pt too wide) in paragraph at lines 558--559
+ [] 
+ []
+
+[5 <./Proof1-Part5.png> <./Proof1-Part6.png> <./Proof2-Part1.png> <./Proof2-Par
+t2.png> <./Proof2-Part3.png>]
+<Proof2-Part4.png, id=237, 510.10574pt x 74.07675pt>
+File: Proof2-Part4.png Graphic file (type png)
+<use Proof2-Part4.png>
+Package pdftex.def Info: Proof2-Part4.png  used on input line 572.
+(pdftex.def)             Requested size: 255.05225pt x 37.03828pt.
+
+Overfull \hbox (11.14099pt too wide) in paragraph at lines 572--573
+ [] 
+ []
+
+<Proof2-Part5.png, id=238, 417.35925pt x 65.043pt>
+File: Proof2-Part5.png Graphic file (type png)
+<use Proof2-Part5.png>
+Package pdftex.def Info: Proof2-Part5.png  used on input line 581.
+(pdftex.def)             Requested size: 208.67911pt x 32.52141pt.
+<Proof2-Part6.png, id=239, 406.51875pt x 39.7485pt>
+File: Proof2-Part6.png Graphic file (type png)
+<use Proof2-Part6.png>
+Package pdftex.def Info: Proof2-Part6.png  used on input line 590.
+(pdftex.def)             Requested size: 203.25887pt x 19.87419pt.
+[6 <./Proof2-Part4.png> <./Proof2-Part5.png> <./Proof2-Part6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 645--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--649
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--665
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--677
+
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 679--681
+\OT1/ptm/m/n/10.03749 Python and the com-pat-i-bil-ity be-tween Django
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--684
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--687
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 691--695
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--695
+
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 697--699
+\OT1/ptm/m/n/10.03749 main-tain-able af-ter the end of the project. For
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--699
+
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 700--702
+[]\OT1/ptm/m/n/10.03749 NFR2: Op-er-a-tional-ity. The web-sever must be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--702
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--723
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--728
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--728
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--738
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--738
+
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 731--738
+\OT1/ptm/m/n/10.03749 This mod-ule is used for cre-ation of database and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--744
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 745--750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--756
+
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 751--756
+\OT1/ptm/m/n/10.03749 This mod-ule is one of the most im-por-tant mod-ules
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--780
+
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 775--780
+\OT1/ptm/m/n/10.03749 pro-vides three types of in-for-ma-tion. The first is an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--804
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--804
+
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 797--804
+\OT1/ptm/m/n/10.03749 This mod-ule is used for the database cre-ation and
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 805--810
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 805--810
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--826
+
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 821--826
+\OT1/ptm/m/n/10.03749 This mod-ule is the last mod-ule be-fore dis-play-ing a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--832
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 848--859
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--859
+
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 848--859
+\OT1/ptm/m/n/10.03749 The third func-tional re-quire-ment is par-tially sat-is-
+fied
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 848--859
+\OT1/ptm/m/n/10.03749 The fourth func-tional re-quire-ment is sat-is-fied. Some
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--867
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--867
+
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 995--998
+[] \OT1/ptm/m/n/8.03 BiCS Bach-e-lor Semester Project Re-port Tem-plate.
+ []
+
+[11]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -755,61 +1066,46 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 658.
-[7pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has
- been already used, duplicate ignored
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1005.
+[12
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.658 \end{document}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.658 \end{document}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.658 \end{document}
-                    ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 658.
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1005.
  (LaTeX1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 658.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 658.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1005.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1005.
+
 Package rerunfilecheck Info: File `LaTeX1.out' has not changed.
-(rerunfilecheck)             Checksum: EAF5E850F0312F46D01A8B6353B36F66;4037.
+(rerunfilecheck)             Checksum: CC04EC0E2694BD7137527849C0AB8592;3277.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7076 strings out of 492450
- 112727 string characters out of 3120471
- 226595 words of memory out of 3000000
- 11271 multiletter control sequences out of 15000+200000
- 43533 words of font info for 84 fonts, out of 3000000 for 9000
+ 7485 strings out of 492450
+ 119283 string characters out of 3120471
+ 231104 words of memory out of 3000000
+ 11651 multiletter control sequences out of 15000+200000
+ 40792 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 39i,7n,34p,1418b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,39p,991b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
 <C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 
+/cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi5.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/u
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/user/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/u
 ser/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/User
 s/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/
 Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
 C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on LaTeX1.pdf (7 pages, 159750 bytes).
+Output written on LaTeX1.pdf (12 pages, 329614 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 441 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 429 words of extra memory for PDF output out of 10000 (max. 10000000)
 
