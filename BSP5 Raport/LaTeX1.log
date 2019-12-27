@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  16 DEC 2019 03:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  27 DEC 2019 19:08
 entering extended mode
 **./LaTeX1.tex
 (LaTeX1.tex
@@ -392,6 +392,39 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 
 LaTeX Warning: Label `sec-production' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `LaTeX1.aux'.
 
@@ -489,572 +522,796 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.32358> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 275.
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--306
+Underfull \hbox (badness 10000) in paragraph at lines 298--309
 
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 296--306
+Underfull \hbox (badness 1484) in paragraph at lines 298--309
 \OT1/ptm/m/n/10.03749 So, a lot of new stu-dents who started to study the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--306
+Underfull \hbox (badness 1484) in paragraph at lines 298--309
+\OT1/ptm/m/n/10.03749 For an-swer-ing the-ses ques-tions, a soft-ware was been
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--309
 
  []
 
 
-Underfull \hbox (badness 4686) in paragraph at lines 321--330
- \OT1/ptm/b/n/10.03749 2.1.2. Tech-ni-cal do-mains. [][][] Soft-ware En-gi-neer
--ing \OT1/ptm/m/n/10.03749 is
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 321--330
+Underfull \hbox (badness 1609) in paragraph at lines 324--333
 \OT1/ptm/m/n/10.03749 have to be con-sid-er-ate as bud-get, time con-straint or
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--330
+Underfull \hbox (badness 10000) in paragraph at lines 324--333
 
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 324--333
+\OT1/ptm/m/n/10.03749 Back-end [4] de-vel-op-ment is hid-den part of a web
  []
 
 [1{C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-]
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 38
-5.
+] [2]
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 39
+2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.03749> on input line 385.
+(Font)              <10.03749> on input line 392.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.0262> on input line 385.
+(Font)              <7.0262> on input line 392.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.01874> on input line 385.
+(Font)              <5.01874> on input line 392.
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--387
-
- []
-
-[2]
-Underfull \hbox (badness 1571) in paragraph at lines 388--390
-\OT1/ptm/m/n/10.03749 proof and iden-tify if a pro-gram is cor-rect in
+Underfull \hbox (badness 1831) in paragraph at lines 392--394
+\OT1/ptm/m/n/10.03749 test-ing for show-ing that a pro-gram is cor-rect
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 388--390
-
+Underfull \hbox (badness 1968) in paragraph at lines 392--394
+\OT1/ptm/m/n/10.03749 ex-e-cuted. The cor-rect ex-e-cu-tion is showed by
  []
 
 
-Underfull \hbox (badness 7133) in paragraph at lines 391--393
-\OT1/ptm/m/n/10.03749 a ra-tio-nal, sys-tem-atic se-ries of steps based
- []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 391--393
-\OT1/ptm/m/n/10.03749 on math-e-mat-i-cal prin-ci-ples for ar-riv-ing to the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 391--393
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--396
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 402--404
-\OT1/ptm/m/n/10.03749 is cor-rect from the ap-pli-ca-tion point of view.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--404
+Underfull \hbox (badness 10000) in paragraph at lines 398--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+Underfull \hbox (badness 10000) in paragraph at lines 403--405
+[]\OT1/ptm/m/n/10.03749 R4: The demon-stra-tions should use Nat-u-ral
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 403--405
+\OT1/ptm/m/n/10.03749 De-duc-tion which is based on as-sump-tions and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--405
+\OT1/ptm/m/n/10.03749 hy-poth-e-sis. The demon-stra-tions have to be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--405
+\OT1/ptm/m/n/10.03749 con-structed of smaller demon-stra-tions which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--416
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--416
+Underfull \hbox (badness 2005) in paragraph at lines 412--414
+[]\OT1/ptm/m/n/10.03749 R1: Pro-vide a tex-tual de-scrip-tion of how the
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 412--414
+\OT1/ptm/m/n/10.03749 point of view. Also, some ex-pla-na-tions have
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 412--414
+\OT1/ptm/m/n/10.03749 to be pro-vided for un-der-stand-ing why the-ses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--427
+Underfull \hbox (badness 10000) in paragraph at lines 421--425
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--427
+Underfull \hbox (badness 10000) in paragraph at lines 421--425
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--442
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--442
+Underfull \hbox (badness 10000) in paragraph at lines 432--436
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 454--458
+Underfull \hbox (badness 10000) in paragraph at lines 447--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 454--458
+Underfull \hbox (badness 10000) in paragraph at lines 463--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--465
+Underfull \hbox (badness 10000) in paragraph at lines 463--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--476
 
  []
 
 <Proof1-Part1.png, id=205, 490.83376pt x 95.1555pt>
 File: Proof1-Part1.png Graphic file (type png)
 <use Proof1-Part1.png>
-Package pdftex.def Info: Proof1-Part1.png  used on input line 484.
+Package pdftex.def Info: Proof1-Part1.png  used on input line 497.
 (pdftex.def)             Requested size: 245.41628pt x 47.57762pt.
 
-Overfull \hbox (1.50502pt too wide) in paragraph at lines 484--485
+Overfull \hbox (1.50502pt too wide) in paragraph at lines 497--498
  [] 
  []
 
 <Proof1-Part2.png, id=207, 359.54324pt x 33.12375pt>
 File: Proof1-Part2.png Graphic file (type png)
 <use Proof1-Part2.png>
-Package pdftex.def Info: Proof1-Part2.png  used on input line 493.
+Package pdftex.def Info: Proof1-Part2.png  used on input line 506.
 (pdftex.def)             Requested size: 179.77118pt x 16.56183pt.
-<Proof1-Part3.png, id=208, 412.54124pt x 98.16675pt>
+[4 <./Proof1-Part1.png> <./Proof1-Part2.png>]
+<Proof1-Part3.png, id=218, 412.54124pt x 98.16675pt>
 File: Proof1-Part3.png Graphic file (type png)
 <use Proof1-Part3.png>
-Package pdftex.def Info: Proof1-Part3.png  used on input line 502.
+Package pdftex.def Info: Proof1-Part3.png  used on input line 515.
 (pdftex.def)             Requested size: 206.27011pt x 49.08325pt.
-<Proof1-Part4.png, id=209, 266.1945pt x 66.2475pt>
+<Proof1-Part4.png, id=219, 266.1945pt x 66.2475pt>
 File: Proof1-Part4.png Graphic file (type png)
 <use Proof1-Part4.png>
-Package pdftex.def Info: Proof1-Part4.png  used on input line 511.
+Package pdftex.def Info: Proof1-Part4.png  used on input line 524.
 (pdftex.def)             Requested size: 133.09692pt x 33.12366pt.
-<Proof1-Part5.png, id=210, 522.753pt x 130.68825pt>
+<Proof1-Part5.png, id=220, 522.753pt x 130.68825pt>
 File: Proof1-Part5.png Graphic file (type png)
 <use Proof1-Part5.png>
-Package pdftex.def Info: Proof1-Part5.png  used on input line 520.
+Package pdftex.def Info: Proof1-Part5.png  used on input line 533.
 (pdftex.def)             Requested size: 261.37585pt x 65.34395pt.
 
-Overfull \hbox (17.4646pt too wide) in paragraph at lines 520--521
+Overfull \hbox (17.4646pt too wide) in paragraph at lines 533--534
  [] 
  []
 
-[4 <./Proof1-Part1.png> <./Proof1-Part2.png> <./Proof1-Part3.png> <./Proof1-Par
-t4.png>]
-<Proof1-Part6.png, id=223, 392.06474pt x 98.769pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--543
+
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 536--543
+\OT1/ptm/b/n/10.03749 4.3.1.6. demon-stra-tion that the whole pro-gram is
+ []
+
+<Proof1-Part6.png, id=221, 392.06474pt x 98.769pt>
 File: Proof1-Part6.png Graphic file (type png)
 <use Proof1-Part6.png>
-Package pdftex.def Info: Proof1-Part6.png  used on input line 530.
+Package pdftex.def Info: Proof1-Part6.png  used on input line 544.
 (pdftex.def)             Requested size: 196.03189pt x 49.38437pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--539
+Underfull \hbox (badness 10000) in paragraph at lines 552--555
 
  []
 
-<Proof2-Part1.png, id=224, 517.935pt x 239.6955pt>
+<Proof2-Part1.png, id=222, 517.935pt x 239.6955pt>
 File: Proof2-Part1.png Graphic file (type png)
 <use Proof2-Part1.png>
-Package pdftex.def Info: Proof2-Part1.png  used on input line 540.
+Package pdftex.def Info: Proof2-Part1.png  used on input line 556.
 (pdftex.def)             Requested size: 207.17032pt x 95.8765pt.
 
-Underfull \hbox (badness 1629) in paragraph at lines 543--544
-\OT1/ptm/m/n/10.03749 eval-u-at-ing the in-puts and out-puts of a test with re-
-
+Underfull \hbox (badness 10000) in paragraph at lines 559--564
+\OT1/ptm/m/n/10.03749 Next, ``pre-condition($\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 
+t[]\OT1/cmr/m/n/10 ][]$\OT1/ptm/m/n/10.03749 )" and ``post-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
-
+Underfull \hbox (badness 5189) in paragraph at lines 559--564
+\OT1/ptm/m/n/10.03749 the in-puts and out-puts of a test with re-spect to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
-
+Underfull \hbox (badness 10000) in paragraph at lines 559--564
+\OT1/ptm/m/n/10.03749 ``con-di-tion-sPre" and ``con-di-tion-sPost". The ``pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
-
+Underfull \hbox (badness 6348) in paragraph at lines 559--564
+\OT1/ptm/m/n/10.03749 condition($\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 t[]\OT1/cmr/
+m/n/10 ][]$\OT1/ptm/m/n/10.03749 )" re-turn 1 as re-sult when for
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
-
- []
-
-<Proof2-Part2.png, id=225, 452.892pt x 103.587pt>
+<Proof2-Part2.png, id=223, 452.892pt x 103.587pt>
 File: Proof2-Part2.png Graphic file (type png)
 <use Proof2-Part2.png>
-Package pdftex.def Info: Proof2-Part2.png  used on input line 549.
+Package pdftex.def Info: Proof2-Part2.png  used on input line 569.
 (pdftex.def)             Requested size: 226.44543pt x 51.79337pt.
-<Proof2-Part3.png, id=226, 679.338pt x 264.38776pt>
+[5 <./Proof1-Part3.png> <./Proof1-Part4.png> <./Proof1-Part5.png> <./Proof1-Par
+t6.png> <./Proof2-Part1.png> <./Proof2-Part2.png>]
+<Proof2-Part3.png, id=235, 679.338pt x 264.38776pt>
 File: Proof2-Part3.png Graphic file (type png)
 <use Proof2-Part3.png>
-Package pdftex.def Info: Proof2-Part3.png  used on input line 558.
-(pdftex.def)             Requested size: 271.73038pt x 105.75322pt.
-
-Overfull \hbox (27.81912pt too wide) in paragraph at lines 558--559
- [] 
- []
-
-[5 <./Proof1-Part5.png> <./Proof1-Part6.png> <./Proof2-Part1.png> <./Proof2-Par
-t2.png> <./Proof2-Part3.png>]
-<Proof2-Part4.png, id=237, 510.10574pt x 74.07675pt>
+Package pdftex.def Info: Proof2-Part3.png  used on input line 578.
+(pdftex.def)             Requested size: 237.77185pt x 92.5371pt.
+<Proof2-Part4.png, id=236, 510.10574pt x 74.07675pt>
 File: Proof2-Part4.png Graphic file (type png)
 <use Proof2-Part4.png>
-Package pdftex.def Info: Proof2-Part4.png  used on input line 572.
+Package pdftex.def Info: Proof2-Part4.png  used on input line 592.
 (pdftex.def)             Requested size: 255.05225pt x 37.03828pt.
 
-Overfull \hbox (11.14099pt too wide) in paragraph at lines 572--573
+Overfull \hbox (11.14099pt too wide) in paragraph at lines 592--593
  [] 
  []
 
-<Proof2-Part5.png, id=238, 417.35925pt x 65.043pt>
+<Proof2-Part5.png, id=237, 417.35925pt x 65.043pt>
 File: Proof2-Part5.png Graphic file (type png)
 <use Proof2-Part5.png>
-Package pdftex.def Info: Proof2-Part5.png  used on input line 581.
+Package pdftex.def Info: Proof2-Part5.png  used on input line 601.
 (pdftex.def)             Requested size: 208.67911pt x 32.52141pt.
-<Proof2-Part6.png, id=239, 406.51875pt x 39.7485pt>
+<Proof2-Part6.png, id=238, 406.51875pt x 39.7485pt>
 File: Proof2-Part6.png Graphic file (type png)
 <use Proof2-Part6.png>
-Package pdftex.def Info: Proof2-Part6.png  used on input line 590.
+Package pdftex.def Info: Proof2-Part6.png  used on input line 610.
 (pdftex.def)             Requested size: 203.25887pt x 19.87419pt.
-[6 <./Proof2-Part4.png> <./Proof2-Part5.png> <./Proof2-Part6.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 645--649
+[6 <./Proof2-Part3.png> <./Proof2-Part4.png> <./Proof2-Part5.png> <./Proof2-Par
+t6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 671--675
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 645--649
+Underfull \hbox (badness 10000) in paragraph at lines 671--675
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--661
+Underfull \hbox (badness 10000) in paragraph at lines 683--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--661
+Underfull \hbox (badness 10000) in paragraph at lines 683--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 663--665
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 670--674
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 670--674
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 675--677
-
- []
-
-
-Underfull \hbox (badness 3000) in paragraph at lines 679--681
-\OT1/ptm/m/n/10.03749 Python and the com-pat-i-bil-ity be-tween Django
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 679--681
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 682--684
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 685--687
+Underfull \hbox (badness 10000) in paragraph at lines 689--691
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 691--695
+Underfull \hbox (badness 10000) in paragraph at lines 697--701
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 691--695
+Underfull \hbox (badness 10000) in paragraph at lines 697--701
 
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 697--699
+Underfull \hbox (badness 10000) in paragraph at lines 702--704
+
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 706--708
+[]\OT1/ptm/m/n/10.03749 FR1: The de-vel-op-ment of web-sever must be
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 706--708
+\OT1/ptm/m/n/10.03749 re-al-ized by us-ing Django frame-work which is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--708
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--713
+
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 714--718
+\OT1/ptm/m/n/10.03749 and pro-vide the right re-sults. Ad-di-tion-ally, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--726
+
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 728--730
 \OT1/ptm/m/n/10.03749 main-tain-able af-ter the end of the project. For
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--699
+Underfull \hbox (badness 10000) in paragraph at lines 728--730
 
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 700--702
+Underfull \hbox (badness 2671) in paragraph at lines 731--733
 []\OT1/ptm/m/n/10.03749 NFR2: Op-er-a-tional-ity. The web-sever must be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--702
+Underfull \hbox (badness 10000) in paragraph at lines 731--733
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 718--723
+Underfull \hbox (badness 10000) in paragraph at lines 755--762
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--728
+Underfull \hbox (badness 10000) in paragraph at lines 763--767
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--728
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 731--738
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 731--738
-
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 731--738
-\OT1/ptm/m/n/10.03749 This mod-ule is used for cre-ation of database and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 739--744
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 739--744
+Underfull \hbox (badness 10000) in paragraph at lines 763--767
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 745--750
+Underfull \hbox (badness 10000) in paragraph at lines 770--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 745--750
+Underfull \hbox (badness 10000) in paragraph at lines 770--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 751--756
+Underfull \hbox (badness 4024) in paragraph at lines 770--779
+\OT1/ptm/m/n/10.03749 This mod-ule is used for cre-ation of database and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--788
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 751--756
+Underfull \hbox (badness 10000) in paragraph at lines 780--788
 
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 751--756
+Underfull \hbox (badness 1478) in paragraph at lines 780--788
+\OT1/ptm/m/n/10.03749 ``views", which ac-cept a re-quest and re-turn a HTTP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--802
+
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 795--802
 \OT1/ptm/m/n/10.03749 This mod-ule is one of the most im-por-tant mod-ules
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 763--774
+Underfull \hbox (badness 10000) in paragraph at lines 809--822
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 763--774
+Underfull \hbox (badness 10000) in paragraph at lines 809--822
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 775--780
+Underfull \hbox (badness 3590) in paragraph at lines 809--822
+\OT1/ptm/m/n/10.03749 The bot-tom of the page is re-served for ad-di-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--828
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 775--780
+Underfull \hbox (badness 10000) in paragraph at lines 823--828
 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 775--780
+Underfull \hbox (badness 2334) in paragraph at lines 823--828
 \OT1/ptm/m/n/10.03749 pro-vides three types of in-for-ma-tion. The first is an
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 781--787
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 781--787
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 829--838
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--793
+Underfull \hbox (badness 10000) in paragraph at lines 829--838
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--793
+Underfull \hbox (badness 10000) in paragraph at lines 839--844
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 797--804
+Underfull \hbox (badness 10000) in paragraph at lines 839--844
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 797--804
+Underfull \hbox (badness 4120) in paragraph at lines 839--844
+\OT1/ptm/m/n/10.03749 This page ap-pears af-ter click-ing on a ``DIS-PLAY"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--861
 
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 797--804
+Underfull \hbox (badness 10000) in paragraph at lines 848--861
+
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 848--861
 \OT1/ptm/m/n/10.03749 This mod-ule is used for the database cre-ation and
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 805--810
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--871
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 805--810
+Underfull \hbox (badness 10000) in paragraph at lines 862--871
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 811--820
+Underfull \hbox (badness 10000) in paragraph at lines 872--887
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 811--820
+Underfull \hbox (badness 10000) in paragraph at lines 872--887
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 821--826
+Underfull \hbox (badness 3977) in paragraph at lines 872--887
+\OT1/ptm/m/n/10.03749 ``if" method such if re-quest.method == 'GET' and
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 888--895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 821--826
+Underfull \hbox (badness 10000) in paragraph at lines 888--895
 
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 821--826
+Underfull \hbox (badness 2035) in paragraph at lines 888--895
 \OT1/ptm/m/n/10.03749 This mod-ule is the last mod-ule be-fore dis-play-ing a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 827--832
+Underfull \hbox (badness 1454) in paragraph at lines 888--895
+\OT1/ptm/m/n/10.03749 as the con-tin-u-a-tion of the ba-sic url s.t ba-sic url 
+$\OT1/cmr/m/n/10 +$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 896--901
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 827--832
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 848--859
+Underfull \hbox (badness 10000) in paragraph at lines 896--901
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 848--859
+Underfull \hbox (badness 10000) in paragraph at lines 917--928
 
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 848--859
+Underfull \hbox (badness 10000) in paragraph at lines 917--928
+
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 917--928
 \OT1/ptm/m/n/10.03749 The third func-tional re-quire-ment is par-tially sat-is-
 fied
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 848--859
+Underfull \hbox (badness 3138) in paragraph at lines 917--928
 \OT1/ptm/m/n/10.03749 The fourth func-tional re-quire-ment is sat-is-fied. Some
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--867
+Underfull \hbox (badness 10000) in paragraph at lines 929--936
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--867
+Underfull \hbox (badness 10000) in paragraph at lines 929--936
 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 995--998
-[] \OT1/ptm/m/n/8.03 BiCS Bach-e-lor Semester Project Re-port Tem-plate.
+Underfull \hbox (badness 1824) in paragraph at lines 943--947
+\OT1/ptm/m/n/10.03749 Sci-ence com-pa-nies and coun-tries. Dur-ing the project,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 943--947
+
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 943--947
+\OT1/ptm/m/n/10.03749 During the project, the demon-stra-tions of cor-rect-ness
+
  []
 
 [11]
+Underfull \hbox (badness 6380) in paragraph at lines 1068--1070
+[] \OT1/ptm/m/n/8.03 Soft-ware Test-ing: Ba-sics." Geeks-forGeeks, 30 Apr. 2019
+,
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 1072--1074
+[] \OT1/ptm/m/n/8.03 Ver-i-fi-ca-tion vs Val-i-da-tion." Soft-ware Test-ing Fun
+-da-men-tals,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1078
+[] \OT1/ptm/m/n/8.03 Rouse, Mar-garet, et al. \What Is Soft-ware En-gi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1078
+\OT1/ptm/m/n/8.03 neer-ing? - Def-i-ni-tion from WhatIs.com." WhatIs.com,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+[] \OT1/ptm/m/n/8.03 \Diff[]erence En-tre Le D[]eveloppeur Front-End Et Le
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+\OT1/ptm/m/n/8.03 D[]eveloppeur Back-End ?" Al-ti-cre-ation, 28 Sept. 2018,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+\OT1/ptm/m/n/8.03 https://www.alticreation.com/difference-developpeur-front-end
+-et-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 1088--1090
+\OT1/ptm/m/n/8.03 for Propo-si-tional Logic - Logic and Proof 0.1 Doc-u-men-ta-
+tion,
+ []
+
+
+Overfull \hbox (71.02208pt too wide) in paragraph at lines 1088--1090
+\OT1/ptm/m/n/8.03 https://leanprover.github.io/logic[]and[]proof/natural[]deduc
+tion[]for[]propositional[]logic.html. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1102
+[] \OT1/ptm/m/n/8.03 \What Is Python?" Python For Be-gin-ners,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1106
+[] \OT1/ptm/m/n/8.03 \Pro-gram-ming Lan-guage." Wikipedia,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1106
+\OT1/ptm/m/n/8.03 Wiki-me-dia Foun-da-tion, 3 Dec. 2019,
+ []
+
+
+Overfull \hbox (11.65643pt too wide) in paragraph at lines 1104--1106
+\OT1/ptm/m/n/8.03 https://en.wikipedia.org/wiki/Programming[]language#Dynamic[]
+semantics 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1112--1114
+\OT1/ptm/m/n/8.03 https://www.chegg.com/homework-help/definitions/logical-reaso
+ning-
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{cite.}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{cite.}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1117 \onecolumn
+                 
+
+]
+<home.png, id=274, 1156.32pt x 567.92175pt>
+File: home.png Graphic file (type png)
+<use home.png>
+Package pdftex.def Info: home.png  used on input line 1122.
+(pdftex.def)             Requested size: 462.5198pt x 227.16467pt.
+<aboutSoftware.png, id=275, 1148.49075pt x 554.67226pt>
+File: aboutSoftware.png Graphic file (type png)
+<use aboutSoftware.png>
+Package pdftex.def Info: aboutSoftware.png  used on input line 1128.
+(pdftex.def)             Requested size: 459.38817pt x 221.86496pt.
+<plots.png, id=276, 1148.49075pt x 564.30824pt>
+File: plots.png Graphic file (type png)
+<use plots.png>
+Package pdftex.def Info: plots.png  used on input line 1134.
+(pdftex.def)             Requested size: 459.38817pt x 225.71928pt.
+<statistic.png, id=277, 1144.275pt x 549.85425pt>
+File: statistic.png Graphic file (type png)
+<use statistic.png>
+Package pdftex.def Info: statistic.png  used on input line 1140.
+(pdftex.def)             Requested size: 457.70189pt x 219.93779pt.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -1066,30 +1323,31 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1005.
-[12
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1144.
+[13
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1005.
- (LaTeX1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1005.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1005.
+ <./home.png> <./aboutSoftware.png>] [14 <./plots.png> <./statistic.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1144.
+
+(LaTeX1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1144.
 
 Package rerunfilecheck Info: File `LaTeX1.out' has not changed.
-(rerunfilecheck)             Checksum: CC04EC0E2694BD7137527849C0AB8592;3277.
+(rerunfilecheck)             Checksum: C89506660638CB7844C66B13C791BAB8;3377.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7485 strings out of 492450
- 119283 string characters out of 3120471
- 231104 words of memory out of 3000000
- 11651 multiletter control sequences out of 15000+200000
+ 7517 strings out of 492450
+ 119658 string characters out of 3120471
+ 230076 words of memory out of 3000000
+ 11673 multiletter control sequences out of 15000+200000
  40792 words of font info for 75 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 39i,7n,39p,991b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,39p,991b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
 <C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
@@ -1103,9 +1361,9 @@ s/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/
 Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
 C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on LaTeX1.pdf (12 pages, 329614 bytes).
+Output written on LaTeX1.pdf (14 pages, 619052 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 429 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 345 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 449 words of extra memory for PDF output out of 10000 (max. 10000000)
 
